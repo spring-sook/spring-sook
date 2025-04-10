@@ -1,6 +1,6 @@
 <div align= "center">
   <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:688bf3,100:cb76f9&height=180&text=👋Welcome%20to%20sook's%20Github!&animation=scaleIn&fontColor=000000&fontSize=50" /> -->
-  <img src="./img/header.png">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=👋Welcome!%20&fontSize=90" />
 </div>
 <div align= "center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
