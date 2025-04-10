@@ -1,10 +1,14 @@
 <div align= "center">
   <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:688bf3,100:cb76f9&height=180&text=👋Welcome%20to%20sook's%20Github!&animation=scaleIn&fontColor=000000&fontSize=50" /> -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=👋Welcome!%20&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome!%20&fontSize=90" />
 </div>
 <div align= "center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-<div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+  <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h1>
+  <br/>
+  <div style="margin: 0 auto; text-align: center;" align= "center">
+
+
+  <!-- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
@@ -17,7 +21,7 @@
       <br/><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
       <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
       <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white">
-      </div>
+      </div> -->
 </div>
 <div align= "center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
