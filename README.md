@@ -20,7 +20,7 @@
 
 <br/>
 
-<div align= "center">
+<!-- <div align= "center">
   <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h1>
   <br/> 
   <div align= "center">
@@ -32,12 +32,12 @@
     </a>
   </div>
   <br/> 
-</div>
+</div> -->
 
-<div align= "center"> 
+<!-- <div align= "center"> 
   <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h1>
   <div align= "center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spring-sook&layout=compact&bg_color=60,d6deff,d9bcf0&title_color=000000&text_color=000000"
         />
   </div> 
-</div>
+</div> -->
